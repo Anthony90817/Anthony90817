@@ -3,6 +3,7 @@
 <h2> Certification :</h2>
 
   - [Google Cyber Security Certificate](https://www.credly.com/badges/216b85a1-e871-4f53-bc2b-d86a3a87c666/public_url)
+  - [Google AI Essentials Certificate]((https://www.credly.com/badges/381449da-4b2c-45ac-9857-81225040abe5/public_url))
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
